@@ -18,3 +18,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 branch1: третий коммит
 branch2: третий коммит
 branch1: дополнительный коммит 1
+branch1: дополнительный коммит 2
